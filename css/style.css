@@ -5,3 +5,6 @@ li.active{
 li.active a{
     color: #fff !important;;
 }
+.parallax-container {
+      max-height: 350px
+    }
